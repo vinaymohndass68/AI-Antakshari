@@ -1,0 +1,5 @@
+{
+  "name": "AI Antakshari",
+  "description": "A web application to play the musical game Antakshari with the help of an AI. Find Hindi Bollywood songs by starting letter, view their lyrics, and keep track of your song history.",
+  "requestFramePermissions": []
+}
